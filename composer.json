@@ -1,0 +1,6 @@
+{
+  "require": {
+    "rmccue/requests": ">=1.0",
+    "phpoffice/phpexcel": "dev-master"
+  }
+}
